@@ -1,16 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/ 
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "Teaching examples"
     url: /teaching/    
-            
-  - title: "Science Communication"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/

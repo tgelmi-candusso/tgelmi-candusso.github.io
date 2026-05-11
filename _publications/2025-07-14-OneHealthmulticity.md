@@ -1,7 +1,7 @@
 ---
 title: "Multicity research networks are needed to address global One Health challenges"
 collection: publications
-permalink: /publications/2025-07-14-OneHealthmulticity
+permalink: /publications/2025-07-14-OneHealthmulticity.md
 excerpt: ''
 date: 2025-07-14
 venue: 'BioScience'

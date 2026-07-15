@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Research fellow (PDF) at the Urban Wildlife Instute-Lincoln Park Zoo, Chicago, for the NSF project integrated Socio-Environmental Systems to understand human-wildlife coexistence. Previously hosted by the Spatial Ecology lab at the University of Toronto through a Walter Benjamin research award (German Research foundation), followed by a School of Cities and a Mitacs award.
+Research Fellow (Postdoctoral), Urban Wildlife Institute, Lincoln Park Zoo, Chicago — NSF project Integrated Socio-Environmental Systems to Understand Human–Wildlife Coexistence. Previously hosted by the Spatial Ecology Lab, University of Toronto, through a Walter Benjamin Research Award (German Research Foundation), followed by School of Cities and Mitacs awards. The latter included working in collaboration with the Toronto Region Conservation Authority to facilitative the management-based decisions relevant to forest restoration.
 
-Interested in understanding the impact of environmental change and urbanization on wildlife communities with the goal of achieving human-wildlife coexistence. 
-
-My work involves applying computational methods to big data at the landscape scale, i.e. landscape connectivity, habitat selection, interspecific interactions, and computer vision for monitoring wildlife populations. 
-
+My research is focused on understanding how environmental change and disturbance shape wildlife communities and the ecological processes they drive. My work applies computational methods to large-scale ecological data, such as assessments of landscape connectivity, habitat selection, interspecific interactions, as well as applying computer-vision to facilitating the monitoring of animal populations. These movement and interaction-based frameworks connect directly to seed dispersal, forest recruitment, and disturbance-driven community dynamics.
 
 
 

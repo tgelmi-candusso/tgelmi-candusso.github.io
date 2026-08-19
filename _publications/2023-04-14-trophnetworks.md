@@ -1,7 +1,7 @@
 ---
 title: "Building urban predator-prey networks using camera traps"
 collection: publications
-permalink: /publications/2023-04-14-trophnetworks.md
+permalink: /files/building_predator_bipartite_networks_gelmicandusso.pdf
 excerpt: 'We compared two types of datasets derived from camera traps, and test their effectiveness to build bipartite predator-prey networks. Our findings suggest the two datasets provided complementary information on the bipartite networks’ structure: the predation events dataset underestimated large mammal prey, and the potential encounter events underestimated small mammal prey. Together, the predator-prey links we found reflected previous literature on dietary analysis.'
 date: 2023-03-29
 venue: 'Food webs'

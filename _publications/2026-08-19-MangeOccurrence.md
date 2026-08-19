@@ -1,5 +1,5 @@
 ---
-title: "Wildlife disease occurrence increases with changes to urban density, habitat connectivity and climate collection: publications
+title: "Wildlife disease occurrence increases with changes to urban density, habitat connectivity and climate" collection: publications
 permalink: /publications/2026-08-19-MangeOccurrence
 excerpt: ''
 date: 2026-08-19
